@@ -28,14 +28,3 @@ Detects the authenticity of an image using Error Level Analysis and Convolutiona
 * Total Images : 11129
 * Authentic images : 8144
 * Forged images : 2985
-
-## Contributors
-<a href="https://github.com/0xsp/image-forgery-detection/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=0xsp/image-forgery-detection" />
-</a>
-
-## License
-MIT
-
-## Reference  
-[FotoForensics](https://fotoforensics.com/)
